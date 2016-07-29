@@ -2,7 +2,7 @@
 #install mvn on localside.
 ###install tomcat7 or 8.
 ###configure tomcat deploy.
-
+~~~~~~~~~
 1. add tomcat user configuration,tomcat\conf\tomcat-users.xml
 		<role rolename="manager-gui"/>
       <role rolename="manager-script"/>
@@ -23,7 +23,8 @@
 	   mvn tomcat7:deploy OR mvn tomcat7:redeploy
 4.PostgreSQL
 	   Because of restrict limitatin, need add ip to PostgreSQL\9.6\data\pg_hba.conf to access the database.
-host    all             all             192.168.0.131/32            md5
+           ####host    all             all             192.168.0.131/32            md5
+~~~~~~~~~~~~~~~
 
 
 		
