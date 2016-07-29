@@ -1,7 +1,7 @@
-###SpringMVC,MyBatis,PostgresSQL,AngularJS,jstl 
-#install mvn on localside.
-###install tomcat7 or 8.
-###configure tomcat deploy.
+#####SpringMVC,MyBatis,PostgresSQL,AngularJS,jstl 
+#####install mvn on localside.
+#####install tomcat7 or 8.
+#####configure tomcat deploy.
 ~~~~~~~~~
 1. add tomcat user configuration,tomcat\conf\tomcat-users.xml
 		<role rolename="manager-gui"/>
