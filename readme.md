@@ -1,3 +1,4 @@
+###SpringMVC + MyBatis + PostgresSQL + AngularJS + jstl 
 #install mvn on localside.
 ###install tomcat7 or 8.
 ###configure tomcat deploy.
